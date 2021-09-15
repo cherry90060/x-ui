@@ -35,8 +35,9 @@ curl https://get.acme.sh | sh
 不安装证书也可以安装x-ui面板
 
 安装 & 升级 X-ui 面板
+
 安装及升级的一键代码
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+
 节点配置及功能讲解
 # x-ui
 支持多协议多用户的 xray 面板
